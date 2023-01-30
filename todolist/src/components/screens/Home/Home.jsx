@@ -3,21 +3,7 @@ import CreateTodoField from "../CreateTodoField/CreateTodoField";
 import TodoItem from "../item/TodoItem";
 
 const data = [
-  {
-    _id: "1",
-    title: "post 1",
-    isComplited: false,
-  },
-  {
-    _id: "2",
-    title: "post 2",
-    isComplited: false,
-  },
-  {
-    _id: "3",
-    title: "post 3",
-    isComplited: false,
-  },
+  
 ];
 
 const Home = () => {
